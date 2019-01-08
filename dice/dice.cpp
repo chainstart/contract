@@ -15,7 +15,7 @@
 #include <eosiolib/asset.hpp>
 #include <eosiolib/action.hpp>
 #include <boost/algorithm/string.hpp>
-#include <eosio.token.hpp>
+#include "eosio.token.hpp"
 #include "config.hpp"
 
 #define GLOBAL_ID_BET 101
